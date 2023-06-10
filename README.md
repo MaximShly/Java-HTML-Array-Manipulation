@@ -2,6 +2,7 @@
 Here we declare two local variables inside of a function and point them both to the same array, however I came across some issues with array references that I would like to share with you.
 
 
+*******TO PROPERLY VIEW THE CODE EXAMPLES BELOW, PLEASE CLICK ON [RAW] TO VIEW THE RAW TEXT FILE THAT DISPLAYS PROPERLY******
 So Originally I used this as my function:
 function getPlayingStyle() {
   let firstTeam = [];
